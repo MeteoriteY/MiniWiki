@@ -22,7 +22,8 @@ body > #header {
 	height: 200px;
 	padding-top: 80px;
 	color: #efefef;
-	background: #22222c;
+	background: #134a65;
+	box-shadow: 0 3px 8px rgba(0, 0, 0, 0.6);
 }
 body > #header a {
 	color: #efefef;
@@ -42,7 +43,7 @@ body > #main #content {
 	background: #fefefe;
 	-webkit-box-shadow: 0 2px 3px 5px #eee;
 	-moz-box-shadow: 0 2px 3px 5px #eee;
-	box-shadow: 0 2px 3px 5px #eee;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.7);;
 }
 body > #footer {
 	font-size: .75em;
@@ -288,7 +289,7 @@ body > #main #content table th {
 	padding-left: 150px;
 }
 #toc .toc-active {
-	background-color: #f92672;
+	background-color: #fbbc05;
 }
 #toc .toc-active a {
 	color: #fff;
