@@ -47,7 +47,7 @@ Chapter章节 - Sub-system子系统 - Sub-sub-system次子系统 - Component部�
 | Description & Operation | 说明和原理 | PB 001 | 001-199 |
 | Standard Maintenance Practices | 标准维护施工 | PB 201 | 201-299 |
 | Task Related to Servicing | 相关勤务工作 | PB 301 | 301-399 |
-| Removal or Installation | 拆卸和安装 | PB 401 | 401499 |
+| Removal or Installation | 拆卸和安装/失效和恢复 | PB 401 | 401-499 |
 | Adjustment or Test | 调节和测试 | PB 501 | 501-599 |
 | Inspection or Check | 检查 | PB 601 | 601-699 |
 | Cleaning or Painting | 清洁和标图 | PB 701 | 701-799 |

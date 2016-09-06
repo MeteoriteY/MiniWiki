@@ -14,12 +14,12 @@
 | **11** |	Placards and markings  | 铭牌和标记 |
 | **12** |	Servicing  | 勤务 |
 | 20-49 | 飞机系统部分           | ----        |
-| **20** | STANDARDPRACTICES | 系统部分标准施工 |
+| **20** | STANDARD PRACTICES | 系统部分标准施工 |
 | **21** | AIR CONDITIONING | 空调 |
 | **22** | AUTO FLIGHT  | 自动飞行 |
 | **23** | COMMUNICATIONS | 通讯 |
-| **24** |  ELECTRICAL POWER电源 |
-| **25**  |  EQUIPMENT/FURNISHINGS 设备及装饰 |
+| **24** |  ELECTRICAL POWER | 电源 |
+| **25**  |  EQUIPMENT/FURNISHINGS | 设备及装饰 |
 | **26**  |  FIRE  PROTECTION | 防火 |
 | **27**  |  FLIGHT CONTROLS  | 飞行操纵 |
 | **28**   | FUEL |  燃油   |
@@ -54,3 +54,15 @@
 | **78**   | EXHAUST | 排气 |
 | **79**  |  OIL |  滑油   |
 | **80**  |  STARTING |  起动 |
+
+| 英文名称 | 中文名称 | 页面包 | 页码 |
+| ------ | ------- | ----- | ---- |
+| Description & Operation | 说明和原理 | PB 001 | 001-199 |
+| Standard Maintenance Practices | 标准维护施工 | PB 201 | 201-299 |
+| Task Related to Servicing | 相关勤务工作 | PB 301 | 301-399 |
+| Removal or Installation | 拆卸和安装/失效和恢复 | PB 401 | 401-499 |
+| Adjustment or Test | 调节和测试 | PB 501 | 501-599 |
+| Inspection or Check | 检查 | PB 601 | 601-699 |
+| Cleaning or Painting | 清洁和标图 | PB 701 | 701-799 |
+| Approved Repair | 其他批准修理 | PB 801 | 801-899 |
+| Deactivation or Reactivation | 失效和恢复 | PB 901 | 901-999  |
