@@ -10,9 +10,9 @@
 
 [ICAO](Aviation:Abbreviation:ICAO)
 
-[FAA](Aviation:Abbreviation:OAT)
+[FAA](Aviation:Abbreviation:FAA)
 
-[EASA](Aviation:Abbreviation:OAT)
+[EASA](Aviation:Abbreviation:EASA)
 
 [JAA](Aviation:Abbreviation:JAA)
 
